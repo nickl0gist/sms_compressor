@@ -1,6 +1,7 @@
 import java.math.BigDecimal;
 
-public class Main {
+public class Main{
+
     public static void main(String[] args) {
 
         NativeCompressor nativeCompressor = new NativeCompressor();
@@ -21,6 +22,6 @@ public class Main {
 
         System.out.println(sb.toString());
 
-
     }
+
 }
