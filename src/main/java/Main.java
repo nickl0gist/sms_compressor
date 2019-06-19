@@ -21,7 +21,5 @@ public class Main{
         sb.append("The total cost of all sms is " + cost);
 
         System.out.println(sb.toString());
-
     }
-
 }
